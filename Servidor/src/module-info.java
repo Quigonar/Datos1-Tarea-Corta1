@@ -1,0 +1,2 @@
+module ServidorTareaCorta1 {
+}
